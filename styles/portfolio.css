@@ -34,6 +34,16 @@
     border: none;
 }
 
+.btn-contact{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 5px;
+    color: #FD6E0A;
+    padding: 18px 35px;
+    border: 1px solid #FD6E0A;
+}
+
 .section-title{
     font-weight: bold;
     font-size: 35px;
